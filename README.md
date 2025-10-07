@@ -1,6 +1,6 @@
-# COINtoolbox Brand Assets
+# COIN Brand Assets
 
-Central place for logos and marks used across COINtoolbox projects.
+Central place for logos and marks used across COIN projects.
 
 ## Quick use (CDN)
 Versioned URL via jsDelivr:
